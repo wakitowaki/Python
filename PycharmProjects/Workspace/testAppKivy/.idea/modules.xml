@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../jsonTest/.idea/jsonTest.iml" filepath="$PROJECT_DIR$/../jsonTest/.idea/jsonTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../django_projects/mysite/.idea/mysite.iml" filepath="$PROJECT_DIR$/../django_projects/mysite/.idea/mysite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pong/.idea/pong.iml" filepath="$PROJECT_DIR$/../pong/.idea/pong.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/testAppKivy.iml" filepath="$PROJECT_DIR$/.idea/testAppKivy.iml" />
+    </modules>
+  </component>
+</project>

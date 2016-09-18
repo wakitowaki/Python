@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "material": "plywood",
+        "worktype": "0",
+        "cut_power": "80.00",
+        "cut_speed": "0.80",
+        "ppihz": "1000",
+        "auto": "0",
+        "cut_passes": "1",
+        "airassist": "0",
+        "offsetz": "0.00",
+        "correction": "0",
+        "bridges": "0",
+        "ipc": "0",
+        "highquality": "0",
+        "rastercorrection": "0",
+        "note": "",
+        "created_at": "2016-09-07 13:58:39",
+        "updated_at": "2016-09-08 14:23:49"
+    },
+    {
+        "id": 2,
+        "material": "plywood",
+        "worktype": "0",
+        "cut_power": "20.00",
+        "cut_speed": "0.30",
+        "ppihz": "1000",
+        "auto": "1",
+        "cut_passes": "3",
+        "airassist": "1",
+        "offsetz": "0.00",
+        "correction": "0",
+        "bridges": "0",
+        "ipc": "0",
+        "highquality": "0",
+        "rastercorrection": "0",
+        "note": "",
+        "created_at": null,
+        "updated_at": null
+    }
+]

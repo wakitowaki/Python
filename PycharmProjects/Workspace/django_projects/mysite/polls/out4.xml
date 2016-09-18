@@ -1,0 +1,16 @@
+<MaterialGroup GUID="{RANDOMIZE}" Name="CUSTOM" SystemValue="false"><Material Description="" GUID="{103c54a8-efab-43bb-b12c-939360ffde72}" Name="Custom Material" SystemValue="false" Thickness="0.00000"><MaterialParameter Color="CIUCCIAMELO" Enabled="false" Index="0" Name="0">
+          <Info>Param1</Info>
+          <ProcessKind Description="Incisione FIBRA">89999999999999999999999</ProcessKind>
+          <Power>60.00000</Power>
+          <Frequency Unit="Hz">25000.00000</Frequency>
+          <AutoFrequency>false</AutoFrequency>
+          <MarkSpeed>15.00000</MarkSpeed>
+          <Passes>1</Passes>
+          <AirAssist Description="on">1</AirAssist>
+          <ZOffset>0.00000</ZOffset>
+          <Correction>10.00000</Correction>
+          <Links>false</Links>
+          <IntelligentPathControl Description="off">0</IntelligentPathControl>
+          <HighQuality>false</HighQuality>
+          <RasterCorrection>false</RasterCorrection>
+        </MaterialParameter></Material></MaterialGroup>

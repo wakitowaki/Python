@@ -1,0 +1,258 @@
+<Material Name="XXX" SystemValue="false" GUID="{103c54a8-efab-43bb-b12c-939360ffde72}" Thickness="0.00000" Description="">
+    <MaterialParameter Index="0" Name="0" Color="0" Enabled="false">
+          <Info>Param1</Info>
+          <ProcessKind Description="Incisione FIBRA">8</ProcessKind>
+          <Power>60.00000</Power>
+          <Frequency Unit="Hz">25000.00000</Frequency>
+          <AutoFrequency>false</AutoFrequency>
+          <MarkSpeed>15.00000</MarkSpeed>
+          <Passes>1</Passes>
+          <AirAssist Description="on">1</AirAssist>
+          <ZOffset>0.00000</ZOffset>
+          <Correction>10.00000</Correction>
+          <Links>false</Links>
+          <IntelligentPathControl Description="off">0</IntelligentPathControl>
+          <HighQuality>false</HighQuality>
+          <RasterCorrection>false</RasterCorrection>
+        </MaterialParameter>
+    <MaterialParameter Index="1" Name="1" Color="255" Enabled="false">
+          <Info>Param2</Info>
+          <ProcessKind Description="Salta">3</ProcessKind>
+          <Power>10.00000</Power>
+          <Frequency Unit="Hz">0.00000</Frequency>
+          <AutoFrequency>false</AutoFrequency>
+          <MarkSpeed>10.00000</MarkSpeed>
+          <Passes>0</Passes>
+          <AirAssist Description="off">0</AirAssist>
+          <ZOffset>0.00000</ZOffset>
+          <Correction>10.00000</Correction>
+          <Links>false</Links>
+          <IntelligentPathControl Description="off">0</IntelligentPathControl>
+          <HighQuality>false</HighQuality>
+          <RasterCorrection>false</RasterCorrection>
+        </MaterialParameter>
+    <MaterialParameter Index="2" Name="2" Color="16711680" Enabled="false">
+          <Info>Param3</Info>
+          <ProcessKind Description="Salta">3</ProcessKind>
+          <Power>10.00000</Power>
+          <Frequency Unit="---">0.00000</Frequency>
+          <AutoFrequency>false</AutoFrequency>
+          <MarkSpeed>10.00000</MarkSpeed>
+          <Passes>0</Passes>
+          <AirAssist Description="off">0</AirAssist>
+          <ZOffset>0.00000</ZOffset>
+          <Correction>10.00000</Correction>
+          <Links>false</Links>
+          <IntelligentPathControl Description="off">0</IntelligentPathControl>
+          <HighQuality>false</HighQuality>
+          <RasterCorrection>false</RasterCorrection>
+        </MaterialParameter>
+    <MaterialParameter Index="3" Name="3" Color="10053171" Enabled="false">
+          <Info>Param4</Info>
+          <ProcessKind Description="Salta">3</ProcessKind>
+          <Power>10.00000</Power>
+          <Frequency Unit="---">0.00000</Frequency>
+          <AutoFrequency>false</AutoFrequency>
+          <MarkSpeed>10.00000</MarkSpeed>
+          <Passes>0</Passes>
+          <AirAssist Description="off">0</AirAssist>
+          <ZOffset>0.00000</ZOffset>
+          <Correction>10.00000</Correction>
+          <Links>false</Links>
+          <IntelligentPathControl Description="off">0</IntelligentPathControl>
+          <HighQuality>false</HighQuality>
+          <RasterCorrection>false</RasterCorrection>
+        </MaterialParameter>
+    <MaterialParameter Index="4" Name="4" Color="16776960" Enabled="false">
+          <Info>Param5</Info>
+          <ProcessKind Description="Salta">3</ProcessKind>
+          <Power>10.00000</Power>
+          <Frequency Unit="---">0.00000</Frequency>
+          <AutoFrequency>false</AutoFrequency>
+          <MarkSpeed>10.00000</MarkSpeed>
+          <Passes>0</Passes>
+          <AirAssist Description="off">0</AirAssist>
+          <ZOffset>0.00000</ZOffset>
+          <Correction>10.00000</Correction>
+          <Links>false</Links>
+          <IntelligentPathControl Description="off">0</IntelligentPathControl>
+          <HighQuality>false</HighQuality>
+          <RasterCorrection>false</RasterCorrection>
+        </MaterialParameter>
+    <MaterialParameter Index="5" Name="5" Color="65280" Enabled="false">
+          <Info>Param6</Info>
+          <ProcessKind Description="Salta">3</ProcessKind>
+          <Power>10.00000</Power>
+          <Frequency Unit="---">0.00000</Frequency>
+          <AutoFrequency>false</AutoFrequency>
+          <MarkSpeed>10.00000</MarkSpeed>
+          <Passes>0</Passes>
+          <AirAssist Description="off">0</AirAssist>
+          <ZOffset>0.00000</ZOffset>
+          <Correction>10.00000</Correction>
+          <Links>false</Links>
+          <IntelligentPathControl Description="off">0</IntelligentPathControl>
+          <HighQuality>false</HighQuality>
+          <RasterCorrection>false</RasterCorrection>
+        </MaterialParameter>
+    <MaterialParameter Index="6" Name="6" Color="3381504" Enabled="false">
+          <Info>Param7</Info>
+          <ProcessKind Description="Salta">3</ProcessKind>
+          <Power>10.00000</Power>
+          <Frequency Unit="---">0.00000</Frequency>
+          <AutoFrequency>false</AutoFrequency>
+          <MarkSpeed>10.00000</MarkSpeed>
+          <Passes>0</Passes>
+          <AirAssist Description="off">0</AirAssist>
+          <ZOffset>0.00000</ZOffset>
+          <Correction>10.00000</Correction>
+          <Links>false</Links>
+          <IntelligentPathControl Description="off">0</IntelligentPathControl>
+          <HighQuality>false</HighQuality>
+          <RasterCorrection>false</RasterCorrection>
+        </MaterialParameter>
+    <MaterialParameter Index="7" Name="7" Color="3368448" Enabled="false">
+          <Info>Param8</Info>
+          <ProcessKind Description="Salta">3</ProcessKind>
+          <Power>10.00000</Power>
+          <Frequency Unit="---">0.00000</Frequency>
+          <AutoFrequency>false</AutoFrequency>
+          <MarkSpeed>10.00000</MarkSpeed>
+          <Passes>0</Passes>
+          <AirAssist Description="off">0</AirAssist>
+          <ZOffset>0.00000</ZOffset>
+          <Correction>10.00000</Correction>
+          <Links>false</Links>
+          <IntelligentPathControl Description="off">0</IntelligentPathControl>
+          <HighQuality>false</HighQuality>
+          <RasterCorrection>false</RasterCorrection>
+        </MaterialParameter>
+    <MaterialParameter Index="8" Name="8" Color="3381657" Enabled="false">
+          <Info>Param9</Info>
+          <ProcessKind Description="Salta">3</ProcessKind>
+          <Power>10.00000</Power>
+          <Frequency Unit="---">0.00000</Frequency>
+          <AutoFrequency>false</AutoFrequency>
+          <MarkSpeed>10.00000</MarkSpeed>
+          <Passes>0</Passes>
+          <AirAssist Description="off">0</AirAssist>
+          <ZOffset>0.00000</ZOffset>
+          <Correction>10.00000</Correction>
+          <Links>false</Links>
+          <IntelligentPathControl Description="off">0</IntelligentPathControl>
+          <HighQuality>false</HighQuality>
+          <RasterCorrection>false</RasterCorrection>
+        </MaterialParameter>
+    <MaterialParameter Index="9" Name="9" Color="3368601" Enabled="false">
+          <Info>Param10</Info>
+          <ProcessKind Description="Salta">3</ProcessKind>
+          <Power>10.00000</Power>
+          <Frequency Unit="---">0.00000</Frequency>
+          <AutoFrequency>false</AutoFrequency>
+          <MarkSpeed>10.00000</MarkSpeed>
+          <Passes>0</Passes>
+          <AirAssist Description="off">0</AirAssist>
+          <ZOffset>0.00000</ZOffset>
+          <Correction>10.00000</Correction>
+          <Links>false</Links>
+          <IntelligentPathControl Description="off">0</IntelligentPathControl>
+          <HighQuality>false</HighQuality>
+          <RasterCorrection>false</RasterCorrection>
+        </MaterialParameter>
+    <MaterialParameter Index="10" Name="10" Color="13158" Enabled="false">
+          <Info>Param11</Info>
+          <ProcessKind Description="Salta">3</ProcessKind>
+          <Power>10.00000</Power>
+          <Frequency Unit="---">0.00000</Frequency>
+          <AutoFrequency>false</AutoFrequency>
+          <MarkSpeed>10.00000</MarkSpeed>
+          <Passes>0</Passes>
+          <AirAssist Description="off">0</AirAssist>
+          <ZOffset>0.00000</ZOffset>
+          <Correction>10.00000</Correction>
+          <Links>false</Links>
+          <IntelligentPathControl Description="off">0</IntelligentPathControl>
+          <HighQuality>false</HighQuality>
+          <RasterCorrection>false</RasterCorrection>
+        </MaterialParameter>
+    <MaterialParameter Index="11" Name="11" Color="6684774" Enabled="false">
+          <Info>Param12</Info>
+          <ProcessKind Description="Salta">3</ProcessKind>
+          <Power>10.00000</Power>
+          <Frequency Unit="---">0.00000</Frequency>
+          <AutoFrequency>false</AutoFrequency>
+          <MarkSpeed>10.00000</MarkSpeed>
+          <Passes>0</Passes>
+          <AirAssist Description="off">0</AirAssist>
+          <ZOffset>0.00000</ZOffset>
+          <Correction>10.00000</Correction>
+          <Links>false</Links>
+          <IntelligentPathControl Description="off">0</IntelligentPathControl>
+          <HighQuality>false</HighQuality>
+          <RasterCorrection>false</RasterCorrection>
+        </MaterialParameter>
+    <MaterialParameter Index="12" Name="12" Color="13369497" Enabled="false">
+          <Info>Param13</Info>
+          <ProcessKind Description="Salta">3</ProcessKind>
+          <Power>10.00000</Power>
+          <Frequency Unit="---">0.00000</Frequency>
+          <AutoFrequency>false</AutoFrequency>
+          <MarkSpeed>10.00000</MarkSpeed>
+          <Passes>0</Passes>
+          <AirAssist Description="off">0</AirAssist>
+          <ZOffset>0.00000</ZOffset>
+          <Correction>10.00000</Correction>
+          <Links>false</Links>
+          <IntelligentPathControl Description="off">0</IntelligentPathControl>
+          <HighQuality>false</HighQuality>
+          <RasterCorrection>false</RasterCorrection>
+        </MaterialParameter>
+    <MaterialParameter Index="13" Name="13" Color="16711935" Enabled="false">
+          <Info>Param14</Info>
+          <ProcessKind Description="Salta">3</ProcessKind>
+          <Power>10.00000</Power>
+          <Frequency Unit="---">0.00000</Frequency>
+          <AutoFrequency>false</AutoFrequency>
+          <MarkSpeed>10.00000</MarkSpeed>
+          <Passes>0</Passes>
+          <AirAssist Description="off">0</AirAssist>
+          <ZOffset>0.00000</ZOffset>
+          <Correction>10.00000</Correction>
+          <Links>false</Links>
+          <IntelligentPathControl Description="off">0</IntelligentPathControl>
+          <HighQuality>false</HighQuality>
+          <RasterCorrection>false</RasterCorrection>
+        </MaterialParameter>
+    <MaterialParameter Index="14" Name="14" Color="26367" Enabled="false">
+          <Info>Param15</Info>
+          <ProcessKind Description="Salta">3</ProcessKind>
+          <Power>10.00000</Power>
+          <Frequency Unit="---">0.00000</Frequency>
+          <AutoFrequency>false</AutoFrequency>
+          <MarkSpeed>10.00000</MarkSpeed>
+          <Passes>0</Passes>
+          <AirAssist Description="off">0</AirAssist>
+          <ZOffset>0.00000</ZOffset>
+          <Correction>10.00000</Correction>
+          <Links>false</Links>
+          <IntelligentPathControl Description="off">0</IntelligentPathControl>
+          <HighQuality>false</HighQuality>
+          <RasterCorrection>false</RasterCorrection>
+        </MaterialParameter>
+    <MaterialParameter Index="15" Name="15" Color="65535" Enabled="false">
+          <Info>Param16</Info>
+          <ProcessKind Description="Salta">3</ProcessKind>
+          <Power>10.00000</Power>
+          <Frequency Unit="---">0.00000</Frequency>
+          <AutoFrequency>false</AutoFrequency>
+          <MarkSpeed>10.00000</MarkSpeed>
+          <Passes>0</Passes>
+          <AirAssist Description="off">0</AirAssist>
+          <ZOffset>0.00000</ZOffset>
+          <Correction>10.00000</Correction>
+          <Links>false</Links>
+          <IntelligentPathControl Description="off">0</IntelligentPathControl>
+          <HighQuality>false</HighQuality>
+          <RasterCorrection>false</RasterCorrection>
+        </MaterialParameter>
+</Material>

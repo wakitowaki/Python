@@ -1,0 +1,45 @@
+{
+  "main": {
+    "KRIPTONITE": {
+      "id": 199999999999,
+      "Material": "KRIPTONITE",
+      "ProcessKind": "1",
+      "Power": "80",
+      "MarkSpeed": "TEST",
+      "Frequency": "TEST",
+      "AutoFrequency": "TEST",
+      "Passes": "300",
+      "AirAssist": "TEST",
+      "ZOffset": "TEST",
+      "Correction": "TEST",
+      "Links": "TEST",
+      "IPC": "TEST",
+      "HighQuality": "TEST",
+      "RasterCorrection": "TEST",
+      "note": "",
+      "created_at": "2016-09-07 13:58:39",
+      "updated_at": "2016-09-08 14:23:49"
+      },
+    "MANGANESIO": {
+      "id": 2,
+      "Material": "MANGANESIO",
+      "ProcessKind": "2",
+      "Power": "TEST2",
+      "MarkSpeed": "TEST2",
+      "Frequency": "TEST2",
+      "AutoFrequency": "TEST2",
+      "Passes": "TEST2",
+      "AirAssist": "TEST2",
+      "ZOffset": "TEST2",
+      "Correction": "TEST2",
+      "Links": "TEST2",
+      "IPC": "TEST2",
+      "HighQuality": "TEST2",
+      "RasterCorrection": "TEST2",
+      "note": "",
+      "created_at": null,
+      "updated_at": null
+      }
+  }
+
+}
